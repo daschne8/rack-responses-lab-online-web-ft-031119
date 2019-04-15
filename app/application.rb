@@ -1,5 +1,5 @@
 class App
-  
+
   def call
     resp = Rack::Response.new
     t = Time.new
